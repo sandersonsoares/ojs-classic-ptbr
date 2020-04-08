@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="pt_BR" full_name="Português (Brasil)">
+
+    <message key="plugins.themes.classic.name">Classic Theme</message>
+    <message key="plugins.themes.classic.description">Tema feito para o OJS 3</message>
+    <message key="plugins.themes.classic.option.primaryColor.label">Cor principal</message>
+    <message key="plugins.themes.classic.option.primaryColor.description">Altera a cor primária do tema</message>
+    <message key="plugins.themes.classic.menu">Menu</message>
+    <message key="plugins.themes.classic.issueDescription">Descrição do problema</message>
+    <message key="plugins.themes.classic.more">Mais</message>
+    <message key="plugins.themes.classic.less">Menos</message>
+    <message key="plugins.themes.classic.fullIssue">Edição Completa</message>
+    <message key="plugins.themes.classic.tableOfContents">Índice</message>
+    <message key="plugins.themes.classic.close">Fechar</message>
+    <message key="plugins.themes.classic.biography">Biografia</message>
+    <message key="plugins.themes.classic.more-info">mais informações</message>
+    <message key="plugins.themes.classic.pagination">Paginação</message>
+
+    <message key="plugins.themes.classic.volume-abbr">Vol</message>
+    <message key="plugins.themes.classic.number-abbr">Nº</message>
+
+    <message key="plugins.themes.classic.register.privacyConsent">Sim, concordo em ter meus dados coletados e
+        armazenados de acordo com a Declaração de Política da revista:
+    </message>
+    <message key="plugins.themes.classic.register.privacyConsentContext">
+        <![CDATA[The <a href="{$privacyUrl}" target="_blank">Declaração de política</a> of {$privacyContextName}.]]></message>
+
+</locale>
